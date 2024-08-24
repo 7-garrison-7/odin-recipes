@@ -12,6 +12,8 @@ h1, h2 {
     /* text-align: center; */
 }
 
+
+
 p, li {
 
 }
@@ -20,7 +22,7 @@ p, li {
     font-weight: bolder;
 }
 
-.links {
+li.links {
     font-size: 22px;
     display: inline;
     padding: 16px;
@@ -30,13 +32,13 @@ p, li {
 }
 
 ol {
- background-color: red;
+
 }
 
-.list {
+/* .list {
     color: purple;
 }
 
 .ingre.list li {
     font-size: 38px;
-}
+} */
