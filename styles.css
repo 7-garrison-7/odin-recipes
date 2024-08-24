@@ -1,0 +1,42 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1, h2 {
+    color:purple;
+    background-color: turquoise;
+    /* border: 30px solid red; */
+    margin: 40px auto;
+    width: fit-content;
+    padding: 0px;
+    /* text-align: center; */
+}
+
+p, li {
+
+}
+
+.desc {
+    font-weight: bolder;
+}
+
+.links {
+    font-size: 22px;
+    display: inline;
+    padding: 16px;
+    margin: 8px auto;
+    background-color: turquoise;
+    border: 4px solid purple;
+}
+
+ol {
+ background-color: red;
+}
+
+.list {
+    color: purple;
+}
+
+.ingre.list li {
+    font-size: 38px;
+}
